@@ -98,7 +98,3 @@ FROM bitnami/google-cloud-sdk:0.375.0-debian-10-r1
 
 # Tags: 0.375.0-debian-10-r0
 FROM bitnami/google-cloud-sdk:0.375.0-debian-10-r0
-
-# Tags: 0.374.0-debian-10-r5, 0.374.0
-FROM bitnami/google-cloud-sdk:0.374.0-debian-10-r5
-FROM bitnami/google-cloud-sdk:0.374.0
