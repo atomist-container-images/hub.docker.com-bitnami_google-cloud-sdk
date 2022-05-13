@@ -1,12 +1,50 @@
-# Tags: latest, 0.383.0-debian-10-r5, 0.383.0, 0-debian-10, 0
+# Tags: latest, 0.385.0-debian-10-r2, 0.385.0, 0-debian-10, 0
 FROM bitnami/google-cloud-sdk:latest
-FROM bitnami/google-cloud-sdk:0.383.0-debian-10-r5
-FROM bitnami/google-cloud-sdk:0.383.0
+FROM bitnami/google-cloud-sdk:0.385.0-debian-10-r2
+FROM bitnami/google-cloud-sdk:0.385.0
 FROM bitnami/google-cloud-sdk:0-debian-10
 FROM bitnami/google-cloud-sdk:0
 
 # Tags: _
 FROM bitnami/google-cloud-sdk:_
+
+# Tags: 0.385.0-debian-10-r1
+FROM bitnami/google-cloud-sdk:0.385.0-debian-10-r1
+
+# Tags: 0.385.0-debian-10-r0
+FROM bitnami/google-cloud-sdk:0.385.0-debian-10-r0
+
+# Tags: 0.384.0-debian-10-r7, 0.384.0
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r7
+FROM bitnami/google-cloud-sdk:0.384.0
+
+# Tags: 0.384.0-debian-10-r6
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r6
+
+# Tags: 0.384.0-debian-10-r5
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r5
+
+# Tags: 0.384.0-debian-10-r4
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r4
+
+# Tags: 0.384.0-debian-10-r3
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r3
+
+# Tags: 0.384.0-debian-10-r2
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r2
+
+# Tags: 0.384.0-debian-10-r1
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r1
+
+# Tags: 0.384.0-debian-10-r0
+FROM bitnami/google-cloud-sdk:0.384.0-debian-10-r0
+
+# Tags: 0.383.0-debian-10-r6, 0.383.0
+FROM bitnami/google-cloud-sdk:0.383.0-debian-10-r6
+FROM bitnami/google-cloud-sdk:0.383.0
+
+# Tags: 0.383.0-debian-10-r5
+FROM bitnami/google-cloud-sdk:0.383.0-debian-10-r5
 
 # Tags: 0.383.0-debian-10-r4
 FROM bitnami/google-cloud-sdk:0.383.0-debian-10-r4
@@ -66,38 +104,3 @@ FROM bitnami/google-cloud-sdk:0.381.0-debian-10-r2
 
 # Tags: 0.381.0-debian-10-r1
 FROM bitnami/google-cloud-sdk:0.381.0-debian-10-r1
-
-# Tags: 0.381.0-debian-10-r0
-FROM bitnami/google-cloud-sdk:0.381.0-debian-10-r0
-
-# Tags: 0.380.0-debian-10-r6, 0.380.0
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r6
-FROM bitnami/google-cloud-sdk:0.380.0
-
-# Tags: 0.380.0-debian-10-r5
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r5
-
-# Tags: 0.380.0-debian-10-r4
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r4
-
-# Tags: 0.380.0-debian-10-r3
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r3
-
-# Tags: 0.380.0-debian-10-r2
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r2
-
-# Tags: 0.380.0-debian-10-r1
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r1
-
-# Tags: 0.380.0-debian-10-r0
-FROM bitnami/google-cloud-sdk:0.380.0-debian-10-r0
-
-# Tags: 0.379.0-debian-10-r6, 0.379.0
-FROM bitnami/google-cloud-sdk:0.379.0-debian-10-r6
-FROM bitnami/google-cloud-sdk:0.379.0
-
-# Tags: 0.379.0-debian-10-r5
-FROM bitnami/google-cloud-sdk:0.379.0-debian-10-r5
-
-# Tags: 0.379.0-debian-10-r4
-FROM bitnami/google-cloud-sdk:0.379.0-debian-10-r4
